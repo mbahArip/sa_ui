@@ -1,0 +1,23 @@
+# Build artifacts
+Release/
+Debug/
+bin/
+x64/
+x86/
+obj/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.asi
+*.map
+*.tlog
+*.lastbuildstate
+
+# IDE / user files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
